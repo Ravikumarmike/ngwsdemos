@@ -1,0 +1,19 @@
+{
+  "name": "observablesvspromises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://waelsconsulting.visualstudio.com/_git/ObservablesVsPromises"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "6.4.0"
+  }
+}
